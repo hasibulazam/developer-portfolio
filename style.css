@@ -5,6 +5,9 @@ body{
 h1{
     font-size:50px;
 }
+h2{
+    font-size:40px;
+}
 span{
     color:orange;
 }
@@ -36,6 +39,23 @@ span{
     background-repeat:no-repeat;
     background-position:right;
 }
+.orange-color{
+    color:orange;
+}
+.experience-item{
+    width:40%;
+    margin-left:5%;
+    margin-right:5%;
+    box-shadow:10px 10px 10px gray;
+    padding-left:10px;
+    border-radius:10px;
+}
+.experience-area{
+    background-image:url(images/exp-bg.png);
+    background-repeat:no-repeat;
+    background-position:left;
+}
+
 
 
 
