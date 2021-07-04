@@ -61,7 +61,7 @@ section{
 }
 #web-dev{
     border-left:7px solid;
-    border-image:linear-gradient(orangered,orange);
+    border-image:linear-gradient(tomato,orange);
     border-image-slice:1;
 }
 #baby-web{
@@ -69,7 +69,9 @@ section{
     border-image:linear-gradient(blue,cyan);
     border-image-slice:1;
 }
-
+footer{
+    text-align:center;
+}
 
 
 
